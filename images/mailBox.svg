@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="mailBox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00AEEF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<polygon id="mailTop" class="st0" points="297.52,305.19 399.62,210.77 487.95,306.04 392.74,305.62 "/>
+<g id="mailBottom">
+	<polygon class="st0" points="486.5,484.5 298.5,484.5 298.5,306.5 392.5,395.5 	"/>
+	<polygon class="st0" points="300,484.83 488,484.83 488,306.83 394,395.83 	"/>
+	<polygon class="st1" points="488.52,305.91 387.22,401.2 298.08,306.67 393.3,306.29 	"/>
+</g>
+</svg>

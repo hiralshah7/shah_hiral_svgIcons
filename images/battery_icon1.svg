@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="battery_x5F_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#39B54A;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<path id="batteryBorder" class="st0" d="M358.5,310.5h-186v-77h186V310.5z M378.5,271.1c0-4.9,0-9.8,0-14.6h-10.4h-9.6v31h20
+	C378.5,282,378.5,276.6,378.5,271.1z"/>
+<rect id="chargedIndicator" x="172.5" y="233.5" class="st1" width="109" height="77"/>
+</svg>

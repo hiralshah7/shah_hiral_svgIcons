@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="notesIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F1F2F2;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#FFF200;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#BCBEC0;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<path id="NotesouterRectangular" class="st0" d="M424,475H200.25c-12.15,0-22-9.85-22-22V245.51c0-12.15,9.85-22,22-22H424
+	c12.15,0,22,9.85,22,22V453C446,465.15,436.15,475,424,475z"/>
+<path id="notesBar" class="st1" d="M428.13,273.49h-232c-9.87,0-17.87-8-17.87-17.87v-12.74c0-9.87,8-17.87,17.87-17.87h232
+	c9.87,0,17.87,8,17.87,17.87v12.74C446,265.49,438,273.49,428.13,273.49z"/>
+<path id="notesLines" class="st2" d="M435.32,298.99L194.09,300 M192.08,321.22l241.22-1.01 M191.56,333.42l241.22-1.01
+	 M430.77,353.63l-241.22,1.01 M190.56,366.72l241.22-1.01 M188.54,387.93l241.22-1.01 M430.78,402.22l-241.22,1.01 M187.54,424.45
+	l241.22-1.01 M431.8,439.81l-241.22,1.01 M188.56,462.04l241.22-1.01"/>
+</svg>
